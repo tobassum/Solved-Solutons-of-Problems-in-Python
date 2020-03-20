@@ -1,1 +1,1 @@
-# python_everybody_lectures_and_Practices
+# Solved Solutions of Problems in Python
